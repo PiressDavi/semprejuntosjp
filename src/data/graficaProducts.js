@@ -25,7 +25,7 @@ export const graficaProducts = [
   },
   {
     id: "g4",
-    name: "Convites Aniversário",
+    name: "",
     description: "Convites de Aniversário Personaizado - 10x15cm - Diversos Temas!",
     price: 1.50,
     image_url: "/images/grafica4.jpg",
@@ -73,7 +73,7 @@ export const graficaProducts = [
   },
   {
     id: "g10",
-    name: "Squeeze Personalizado",
+    name: "",
     description: "Squeeze Personalizado - Tampa Dupla 500ml - Branca",
     price: 30.00,
     image_url: "/images/grafica10.jpg",
@@ -161,7 +161,7 @@ export const graficaProducts = [
   },
   {
     id: "g21",
-    name: "Wind Banner Personalizado",
+    name: "",
     description: "Wind Banner Personalizado - Vários Tamanhos - Consulte Disponibilidade e Valores!",
     price: 0.00,
     image_url: "/images/grafica21.jpg",
