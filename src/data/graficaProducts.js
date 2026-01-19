@@ -25,8 +25,8 @@ export const graficaProducts = [
   },
   {
     id: "g4",
-    name: "Convite Aniversário",
-    description: "Convite de Aniversário Personaizado - 10x15cm - Diversos Temas!",
+    name: "Convites Aniversário",
+    description: "Convites de Aniversário Personaizado - 10x15cm - Diversos Temas!",
     price: 1.50,
     image_url: "/images/grafica4.jpg",
     category_id: "grafica",
