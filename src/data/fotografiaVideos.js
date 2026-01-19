@@ -37,7 +37,7 @@ export const fotografiaVideos = [
       {
     id: "f6",
     type: "image",
-    title: "Cabide Fotográfica Diferenciada",
+    title: "Cabine Fotográfica Diferenciada",
     description: "Conheça nossa Cabine Fotográfica Diferenciada. Faça seu orçamento sem compromisso!",
     src: "/images/fotografia6.png",
   },
