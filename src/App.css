@@ -1,0 +1,42 @@
+/* ===============================
+   RESET BÁSICO
+================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===============================
+   BODY
+================================ */
+body {
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+
+  /* Fundo do site */
+  background-image: url("/src/assets/fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: contain; /* não distorce */
+  background-position: center;
+  background-attachment: fixed;
+
+  color: #ffffff;
+}
+
+/* ===============================
+   ROOT
+================================ */
+#root {
+  min-height: 100vh;
+}
+
+/* ===============================
+   UTILIDADES EXTRAS (opcional)
+================================ */
+
+/* Melhora a leitura em telas claras */
+.page-overlay {
+  background: rgba(0, 0, 0, 0.35);
+  min-height: 100vh;
+}

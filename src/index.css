@@ -1,0 +1,7 @@
+body {
+  background-image: url("./assets/fundo.jpg");
+  background-repeat: repeat;
+  background-size: contain;
+  background-position: center;
+  background-attachment: fixed;
+}
