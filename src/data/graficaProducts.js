@@ -16,6 +16,14 @@ export const graficaProducts = [
     category_id: "grafica",
   },
   {
+    id: "g9a",
+    name: "12 Fotos Calendário Polaroid",
+    description: "12 Fotos Calendário Polaroid 2026 Personalizado - Imã de Geladeira",
+    price: 28.00,
+    image_url: "/images/grafica9a.jpg",
+    category_id: "grafica",
+  },
+  {
     id: "g3",
     name: "Imã de Geladeira",
     description: "Imã de Geladeira - 5x5cm - Manta Magnética - 4x0 - Verniz Total Brilho Frente - Montado - Bloco de Calendário 2026!",
@@ -23,7 +31,7 @@ export const graficaProducts = [
     image_url: "/images/grafica3.jpg",
     category_id: "grafica",
   },
-    {
+  {
     id: "g3c",
     name: "Bottons Personalizados",
     description: "10 Bottons Personalizados - Formato	3,5x3,5cm. Consulte Disponibilidade e Valores!",
@@ -112,14 +120,6 @@ export const graficaProducts = [
     category_id: "grafica",
   },
   {
-    id: "g9a",
-    name: "12 Fotos Calendário Polaroid",
-    description: "12 Fotos Calendário Polaroid 2026 Personalizado - Imã de Geladeira",
-    price: 28.00,
-    image_url: "/images/grafica9a.jpg",
-    category_id: "grafica",
-  },
-  {
     id: "g10",
     name: "Squeeze Personalizado",
     description: "Squeeze Personalizado - Tampa Dupla 500ml - Branca",
@@ -159,7 +159,7 @@ export const graficaProducts = [
     image_url: "/images/grafica14.jpg",
     category_id: "grafica",
   },
-    {
+  {
     id: "g14a",
     name: "TAG Agradecimento Clientes",
     description: "TAG Agradecimento aos Clientes Personalizadas!",
@@ -167,7 +167,7 @@ export const graficaProducts = [
     image_url: "/images/grafica14a.jpg",
     category_id: "grafica",
   },
-      {
+  {
     id: "g14b",
     name: "Folheto Carta Agradecimento",
     description: "Folheto Personalizado - 10x14cm!",
