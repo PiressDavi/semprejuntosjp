@@ -23,6 +23,14 @@ export const graficaProducts = [
     image_url: "/images/grafica3.jpg",
     category_id: "grafica",
   },
+    {
+    id: "g3c",
+    name: "Bottons Personalizados",
+    description: "10 Bottons Personalizados - Formato	3,5x3,5cm. Consulte Disponibilidade e Valores!",
+    price: 0.00,
+    image_url: "/images/grafica3c.jpg",
+    category_id: "grafica",
+  },
   {
     id: "g1",
     name: "Painel Instagram",
