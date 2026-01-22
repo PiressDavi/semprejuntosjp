@@ -1,5 +1,29 @@
 export const graficaProducts = [
   {
+    id: "g3a",
+    name: "Calendário 2026 A4",
+    description: "Calendário 2026 Personalizado A4 com Foto. Verificar Valores e Papéis Disponíveis!",
+    price: 0.00,
+    image_url: "/images/grafica3a.jpg",
+    category_id: "grafica",
+  },
+  {
+    id: "g3b",
+    name: "Mini Calendário de Mesa",
+    description: "Mini Calendário 2026 Personalizado de Mesa!",
+    price: 1.75,
+    image_url: "/images/grafica3b.png",
+    category_id: "grafica",
+  },
+  {
+    id: "g3",
+    name: "Imã de Geladeira",
+    description: "Imã de Geladeira - 5x5cm - Manta Magnética - 4x0 - Verniz Total Brilho Frente - Montado - Bloco de Calendário 2026!",
+    price: 1.50,
+    image_url: "/images/grafica3.jpg",
+    category_id: "grafica",
+  },
+  {
     id: "g1",
     name: "Painel Instagram",
     description: "Painel Instagramavel para Festas e Eventos. Personalizamos com o tema da sua festa!",
@@ -16,19 +40,27 @@ export const graficaProducts = [
     category_id: "grafica",
   },
   {
-    id: "g3",
-    name: "Imã de Geladeira",
-    description: "Imã de Geladeira - 5x5cm - Manta Magnética - 4x0 - Verniz Total Brilho Frente - Montado - Bloco de Calendário 2026!",
-    price: 1.50,
-    image_url: "/images/grafica3.jpg",
-    category_id: "grafica",
-  },
-  {
     id: "g4",
     name: "Convite Aniversário",
     description: "Convite de Aniversário Personaizado - 10x15cm - Diversos Temas!",
     price: 1.50,
     image_url: "/images/grafica4.jpg",
+    category_id: "grafica",
+  },
+  {
+    id: "g4a",
+    name: "TAG Esmalte Madrinha",
+    description: "TAG Esmalte Personalizados - Diversos Eventos! *Não Acompanha Esmalte!",
+    price: 2.30,
+    image_url: "/images/grafica4a.jpg",
+    category_id: "grafica",
+  },
+  {
+    id: "g4b",
+    name: "TAG Gravata Padrinho",
+    description: "TAG Gravata Padrinhos - Diversos Eventos! *Não Acompanha Gravata!",
+    price: 1.30,
+    image_url: "/images/grafica4b.jpg",
     category_id: "grafica",
   },
   {
@@ -72,6 +104,14 @@ export const graficaProducts = [
     category_id: "grafica",
   },
   {
+    id: "g9a",
+    name: "12 Fotos Calendário Polaroid",
+    description: "12 Fotos Calendário Polaroid 2026 Personalizado - Imã de Geladeira",
+    price: 28.00,
+    image_url: "/images/grafica9a.jpg",
+    category_id: "grafica",
+  },
+  {
     id: "g10",
     name: "Squeeze Personalizado",
     description: "Squeeze Personalizado - Tampa Dupla 500ml - Branca",
@@ -109,6 +149,22 @@ export const graficaProducts = [
     description: "Mini Cachepôs Personalizados para Mini-Suculentas. Não Acompanha a Planta!",
     price: 1.30,
     image_url: "/images/grafica14.jpg",
+    category_id: "grafica",
+  },
+    {
+    id: "g14a",
+    name: "TAG Agradecimento Clientes",
+    description: "TAG Agradecimento aos Clientes Personalizadas!",
+    price: 1.30,
+    image_url: "/images/grafica14a.jpg",
+    category_id: "grafica",
+  },
+      {
+    id: "g14b",
+    name: "Folheto Carta Agradecimento",
+    description: "Folheto Personalizado - 10x14cm!",
+    price: 1.50,
+    image_url: "/images/grafica14b.jpg",
     category_id: "grafica",
   },
   {
@@ -183,7 +239,7 @@ export const graficaProducts = [
     image_url: "/images/grafica23.jpg",
     category_id: "grafica",
   },
-    {
+  {
     id: "g24",
     name: "Plastificação",
     description: "Vários Tamanhos - Consulte Disponibilidade e Valores!",
