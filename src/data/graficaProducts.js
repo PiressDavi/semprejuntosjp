@@ -31,6 +31,22 @@ export const graficaProducts = [
     image_url: "/images/grafica3.jpg",
     category_id: "grafica",
   },
+    {
+    id: "g3d",
+    name: "Marca Páginas",
+    description: "Marca Páginas Personalizados - Frente e Verso!",
+    price: 1.30,
+    image_url: "/images/grafica3d.jpg",
+    category_id: "grafica",
+  },
+      {
+    id: "g3e",
+    name: "Pote 365 Versículos",
+    description: "Pote 365 Versículos Bíblicos - Personalizados!",
+    price: 20.00,
+    image_url: "/images/grafica3e.jpg",
+    category_id: "grafica",
+  },
   {
     id: "g3c",
     name: "Bottons Personalizados",
