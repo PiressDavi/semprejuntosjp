@@ -79,6 +79,22 @@ export const graficaProducts = [
     image_url: "/images/grafica4.jpg",
     category_id: "grafica",
   },
+    {
+    id: "g4c",
+    name: "Manual dos Padrinhos",
+    description: "Manual dos Padrinhos Personalizado (1 Unidade)!",
+    price: 2.50,
+    image_url: "/images/grafica4c.jpg",
+    category_id: "grafica",
+  },
+      {
+    id: "g4d",
+    name: "Manual dos Padrinhos",
+    description: "Manual dos Padrinhos - Varias Cores!",
+    price: 3.75,
+    image_url: "/images/grafica4d.jpg",
+    category_id: "grafica",
+  },
   {
     id: "g4a",
     name: "TAG Esmalte Madrinha",
