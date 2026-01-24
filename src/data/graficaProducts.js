@@ -43,7 +43,7 @@ export const graficaProducts = [
     id: "g3e",
     name: "Pote 365 Versículos",
     description: "Pote 365 Versículos Bíblicos - Personalizados!",
-    price: 20.00,
+    price: 15.00,
     image_url: "/images/grafica3e.jpg",
     category_id: "grafica",
   },
